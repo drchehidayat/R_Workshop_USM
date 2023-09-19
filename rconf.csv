@@ -1,0 +1,320 @@
+﻿age,sex,ethnicity,married,dm,hpt,ckd,af,hf/IHD,lipid,smoke,WHO,dodiag,gcs,nihss,mrs,iv_thrombolysis,iv_thrombectomy,status_dis,dodis,status_f/u,dodeath,Sebab Kematian
+52,Male ,Malay,Married,No,Yes ,No,No,No,No,No,Ischaemic,12/09/2020,15,Moderate stroke (5-15),Moderately severe disability,No,No,Alive,18/09/2020,Alive,22/11/2022,
+73,Male ,Malay,Married,Yes ,Yes ,No,No,No,No,No,Ischaemic,22/09/2020,13,Moderate stroke (5-15),Slight disability,No,No,Alive,24/09/2020,Alive,22/11/2022,
+64,Male ,Malay,Married,Yes ,No,No,No,Yes ,No,No,Ischaemic,15/12/2021,15,Moderate stroke (5-15),Severe disability,No,No,Alive,14/01/2022,Died,02/05/2022,SAKIT STROK
+58,Male ,Malay,Married,Yes ,Yes ,No,No,No,Yes,No,Ischaemic,04/12/2021,15,Moderate stroke (5-15),Moderately severe disability,No,No,Alive,17/12/2021,Alive,22/11/2022,
+64,Male ,Malay,Married,No,Yes ,No,No,No,Yes,No,Ischaemic,05/12/2021,15,Minor stroke (1-4),No significant disability,No,No,Alive,07/12/2021,Alive,22/11/2022,
+64,Female,Malay,Married,Yes ,Yes ,No,No,No,No,No,Ischaemic,07/12/2021,12,Minor stroke (1-4),Slight disability,No,No,Alive,22/12/2021,Died,12/01/2022,STROK
+66,Male ,Malay,Divorce,Yes ,No,No,No,No,No,No,Ischaemic,15/12/2021,15,Minor stroke (1-4),Slight disability,No,No,Alive,18/12/2021,Alive,22/11/2022,
+52,Male ,Malay,Married,No,No,No,No,No,No,No,Ischaemic,20/12/2021,15,Moderate stroke (5-15),Moderately severe disability,No,No,Alive,23/12/2021,Alive,22/11/2022,
+76,Male ,Chinese,Married,No,Yes ,No,No,No,No,No,Ischaemic,14/12/2021,15,Minor stroke (1-4),Slight disability,No,No,Alive,17/12/2021,Alive,22/11/2022,
+45,Male ,Malay,Married,Yes ,No,No,No,No,No,No,Ischaemic,23/05/2021,15,Minor stroke (1-4),No significant disability,No,No,Alive,30/05/2021,Alive,22/11/2022,
+56,Male ,Malay,Married,No,Yes ,No,No,No,No,No,Intracerebral Hemorrhage (ICH),17/05/2021,10,Moderate stroke (5-15),Severe disability,No,No,Alive,22/05/2021,Alive,22/11/2022,
+44,Male ,Others,Married,No,No,No,No,No,Yes,Yes ,Ischaemic,28/05/2021,15,Moderate stroke (5-15),Moderately severe disability,No,No,Alive,01/06/2021,Alive,22/11/2022,
+74,Female,Malay,Married,Yes ,Yes ,No,No,No,No,No,Ischaemic,30/05/2021,9,Severe stroke (21-42),Severe disability,No,No,Alive,05/06/2021,Died,04/06/2021,SAKIT TUA
+48,Female,Malay,Married,No,Yes ,No,No,No,Yes,Yes ,Ischaemic,31/05/2021,15,Moderate stroke (5-15),Moderate disability,No,No,Alive,30/06/2021,Alive,22/11/2022,
+64,Male ,Malay,Married,Yes ,Yes ,No,No,No,No,Yes ,Ischaemic,25/02/2021,12,Moderate to severe stroke (16-20),Moderately severe disability,No,No,Alive,26/02/2021,Died,28/02/2021,SAKIT STROK
+53,Male ,Malay,Married,No,No,No,No,No,No,No,Ischaemic,20/06/2021,15,Minor stroke (1-4),Slight disability,No,No,Alive,20/06/2021,Alive,22/11/2022,
+48,Male ,Malay,Married,Yes ,Yes ,No,No,No,Yes,No,Intracerebral Hemorrhage (ICH),20/06/2021,13,NA,Moderately severe disability,No,No,Alive,22/06/2021,Died,28/06/2021,ACUTE HEMORRHAGIC STROKE
+50,Female,Malay,Married,Yes ,Yes ,No,No,No,No,No,Ischaemic,18/06/2021,15,Minor stroke (1-4),Moderately severe disability,No,No,Alive,21/06/2021,Alive,22/11/2022,
+58,Female,Malay,Married,Yes ,Yes ,No,No,No,No,No,Ischaemic,20/06/2021,15,Moderate stroke (5-15),Moderately severe disability,No,No,Alive,23/06/2021,Died,24/10/2021,STROKE
+47,Male ,Malay,Married,No,Yes ,No,No,No,No,No,Intracerebral Hemorrhage (ICH),28/06/2021,10,NA,Severe disability,No,No,Alive,30/06/2021,Alive,22/11/2022,
+69,Male ,Malay,Married,No,Yes ,No,No,Yes ,Yes,No,Intracerebral Hemorrhage (ICH),24/06/2021,15,NA,Severe disability,No,No,Alive,27/06/2021,Alive,22/11/2022,
+65,Female,Malay,Married,No,Yes ,No,No,No,No,No,Intracerebral Hemorrhage (ICH),30/06/2021,13,NA,Moderately severe disability,No,No,Alive,03/07/2021,Alive,22/11/2022,
+46,Male ,Malay,Married,No,Yes ,No,No,No,No,Yes ,Ischaemic,30/06/2021,15,Minor stroke (1-4),Moderately severe disability,No,No,Alive,04/07/2021,Alive,22/11/2022,
+72,Female,Malay,Married,Yes ,Yes ,No,Yes ,No,Yes,No,Ischaemic,16/06/2021,15,Moderate stroke (5-15),Severe disability,No,No,Alive,21/06/2021,Died,27/09/2021,STROKE
+44,Female,Malay,Divorce,Yes ,Yes ,No,No,No,No,No,Ischaemic,14/06/2021,15,Moderate stroke (5-15),Moderately severe disability,No,No,Alive,13/06/2021,Died,29/07/2021,SEPSIS SECONDARY TO THIGH NECROTIZING FASCIITIS
+59,Female,Malay,Married,Yes ,Yes ,No,No,No,Yes,No,Ischaemic,11/06/2021,14,Moderate stroke (5-15),Moderately severe disability,No,No,Alive,14/06/2021,Alive,22/11/2022,
+38,Male ,Chinese,NA,No,Yes ,No,Yes ,No,No,Yes ,Ischaemic,09/06/2021,15,Moderate stroke (5-15),Slight disability,No,No,Alive,11/06/2021,Alive,22/11/2022,
+32,Female,Malay,Married,Yes ,Yes ,Yes ,No,No,Yes,No,Ischaemic,08/06/2021,14,Moderate to severe stroke (16-20),Severe disability,No,No,Alive,14/06/2021,Alive,22/11/2022,
+69,Male ,Malay,Married,No,Yes ,No,No,No,No,No,Ischaemic,15/06/2021,15,Minor stroke (1-4),Moderately severe disability,No,No,Alive,17/06/2021,Alive,22/11/2022,
+73,Male ,Malay,Married,Yes ,Yes ,No,No,No,No,No,Ischaemic,15/03/2021,13,Minor stroke (1-4),No significant disability,No,No,Alive,17/03/2021,Died,12/06/2022,DARAH TINGGI
+62,Female,Malay,Divorce,No,Yes ,No,No,No,No,No,Ischaemic,30/03/2021,6,Severe stroke (21-42),Severe disability,No,No,Alive,01/04/2021,Alive,22/11/2022,
+56,Female,Malay,Married,No,Yes ,No,No,No,No,No,Ischaemic,22/03/2021,15,Minor stroke (1-4),Moderately severe disability,No,No,Alive,24/03/2021,Alive,22/11/2022,
+68,Female,Malay,Married,No,No,No,No,No,No,No,Ischaemic,21/03/2021,11,Minor stroke (1-4),Slight disability,No,No,Alive,24/03/2021,Died,28/03/2021,SAKIT TUA
+69,Female,Malay,Married,No,Yes ,No,No,No,Yes,No,Intracerebral Hemorrhage (ICH),18/03/2021,15,NA,Slight disability,No,No,Alive,22/03/2021,Alive,22/11/2022,
+79,Female,Malay,Married,No,Yes ,No,Yes ,No,No,No,Ischaemic,22/03/2021,8,Moderate to severe stroke (16-20),Severe disability,No,No,Alive,27/03/2021,Died,26/03/2021,STROK
+57,Female,Malay,Married,Yes ,No,No,No,No,Yes,No,Ischaemic,16/03/2021,15,Minor stroke (1-4),No significant disability,No,No,Alive,18/03/2021,Alive,22/11/2022,
+42,Female,Malay,Single,No,Yes ,No,No,No,No,No,Ischaemic,15/03/2021,15,Minor stroke (1-4),No significant disability,No,No,Alive,17/03/2021,Alive,22/11/2022,
+54,Female,Malay,Married,Yes ,Yes ,No,No,No,Yes,No,Ischaemic,12/03/2021,11,Moderate to severe stroke (16-20),Moderately severe disability,No,No,Alive,16/03/2021,Died,07/09/2021,SAKIT STROK
+62,Male ,Malay,Married,Yes ,Yes ,No,No,No,Yes,Yes ,Ischaemic,24/04/2021,11,Severe stroke (21-42),Severe disability,No,No,Alive,27/04/2021,Alive,22/11/2022,
+64,Male ,Malay,Married,Yes ,Yes ,No,No,No,No,No,Ischaemic,18/04/2021,15,Minor stroke (1-4),No significant disability,No,No,Alive,22/04/2021,Alive,22/11/2022,
+58,Male ,Malay,NA,Yes ,Yes ,No,No,Yes ,Yes,Yes ,Ischaemic,03/04/2021,15,Minor stroke (1-4),No significant disability,No,No,Alive,15/04/2021,Died,30/03/2022,SAKIT JANTUNG
+57,Male ,Malay,Married,Yes ,Yes ,No,No,No,Yes,No,Ischaemic,12/04/2021,15,Minor stroke (1-4),No symptom,No,No,Alive,13/04/2021,Alive,22/11/2022,
+52,Male ,Malay,Married,Yes ,Yes ,No,No,No,No,No,Ischaemic,10/04/2021,15,No stroke symptoms (0),No significant disability,No,No,Alive,11/04/2021,Alive,22/11/2022,
+55,Male ,Malay,Married,No,Yes ,No,No,No,Yes,No,Ischaemic,26/02/2021,15,Minor stroke (1-4),Moderately severe disability,No,No,Alive,27/02/2021,Alive,22/11/2022,
+42,Female,Malay,Married,Yes ,Yes ,No,No,No,No,No,Intracerebral Hemorrhage (ICH),25/02/2021,13,Moderate stroke (5-15),Moderately severe disability,No,No,Alive,02/03/2021,Alive,22/11/2022,
+69,Male ,Malay,Married,Yes ,No,No,No,No,Yes,No,Ischaemic,26/02/2021,15,Moderate stroke (5-15),Moderately severe disability,No,No,Alive,01/03/2021,Died,05/08/2021,SEPTIC SHOCK 2' MULTIFACTORIAL
+62,Male ,Malay,Married,Yes ,Yes ,No,No,No,Yes,Yes ,Ischaemic,28/02/2021,15,Minor stroke (1-4),Moderately severe disability,No,No,Alive,02/03/2021,Alive,22/11/2022,
+51,Male ,Malay,Married,No,Yes ,No,No,No,Yes,No,Ischaemic,27/02/2021,15,Minor stroke (1-4),Slight disability,No,No,Alive,03/03/2021,Alive,22/11/2022,
+81,Female,Malay,Married,No,No,No,Yes ,No,No,No,Ischaemic,21/02/2021,10,Severe stroke (21-42),Moderately severe disability,No,No,Alive,01/03/2021,Died,16/07/2021,SAKIT TUA
+59,Male ,Malay,Married,No,Yes ,No,No,No,Yes,Yes ,Ischaemic,28/02/2021,14,Minor stroke (1-4),Moderate disability,No,No,Alive,02/03/2021,Alive,22/11/2022,
+83,Female,Chinese,Married,Yes ,Yes ,No,No,No,No,No,Ischaemic,12/02/2021,9,Moderate stroke (5-15),Moderately severe disability,No,No,Alive,15/02/2021,Died,15/12/2021,SAKIT TUA
+60,Male ,Malay,Married,Yes ,Yes ,No,No,No,Yes,No,Ischaemic,06/02/2021,15,Moderate stroke (5-15),Moderately severe disability,No,No,Alive,09/02/2021,Died,04/12/2021,SEPTICAEMIA SECONDARY TO FUNGAEMIA AND NECROTIZING FASCITIS
+79,Female,Malay,Married,Yes ,Yes ,No,No,No,No,No,Ischaemic,02/02/2021,15,Moderate stroke (5-15),Moderately severe disability,No,No,Alive,03/02/2021,Died,08/02/2021,STROK
+57,Female,Malay,Married,No,Yes ,No,No,No,No,No,Ischaemic,30/01/2021,15,Minor stroke (1-4),Moderate disability,No,No,Alive,31/01/2021,Alive,22/11/2022,
+80,Male ,Malay,Married,No,No,No,No,No,No,Yes ,Ischaemic,01/05/2021,15,Minor stroke (1-4),No significant disability,No,No,Alive,03/05/2021,Alive,22/11/2022,
+57,Male ,Malay,Married,No,No,No,No,No,Yes,Yes ,Ischaemic,19/02/2021,15,Minor stroke (1-4),No significant disability,No,No,Alive,20/02/2021,Alive,22/11/2022,
+49,Female,Malay,Married,No,Yes ,No,No,No,No,No,Ischaemic,18/02/2021,15,Minor stroke (1-4),Moderately severe disability,No,No,Alive,22/02/2021,Alive,22/11/2022,
+83,Male ,Malay,Married,Yes ,Yes ,No,No,Yes ,No,No,Intracerebral Hemorrhage (ICH),14/02/2021,15,NA,Slight disability,No,No,Alive,18/02/2021,Alive,22/11/2022,
+51,Female,Chinese,Married,No,Yes ,No,No,No,No,No,Ischaemic,07/02/2021,15,Minor stroke (1-4),Slight disability,No,No,Alive,10/02/2021,Alive,22/11/2022,
+56,Female,Malay,Married,Yes ,Yes ,No,No,No,No,No,Ischaemic,07/02/2021,15,Moderate stroke (5-15),No significant disability,No,No,Alive,10/02/2021,Died,11/05/2022,SAKIT KANSER PARU-PARU
+63,Male ,Malay,Married,Yes ,Yes ,No,No,No,No,No,Ischaemic,13/02/2021,15,Moderate stroke (5-15),Moderately severe disability,No,No,Alive,22/02/2021,Died,20/04/2021,SEPTICEMIC SHOCK SECONDARY TO SEVERE PNEUMONIA
+67,Female,Malay,Married,Yes ,Yes ,No,No,Yes ,Yes,No,Ischaemic,16/05/2021,15,Moderate stroke (5-15),Moderately severe disability,No,No,Alive,25/05/2021,Died,08/07/2021,KENCING MANIS
+62,Male ,Malay,Married,Yes ,Yes ,No,No,No,No,No,Ischaemic,18/01/2021,15,Moderate to severe stroke (16-20),Moderate disability,No,No,Alive,21/01/2021,Alive,22/11/2022,
+58,Male ,Malay,NA,Yes ,Yes ,No,No,No,No,No,Ischaemic,21/05/2021,15,Minor stroke (1-4),Slight disability,No,No,Alive,24/05/2021,Died,02/04/2022,SAKIT KENCING MANIS
+57,Male ,Malay,Married,Yes ,Yes ,No,No,Yes ,Yes,Yes ,Ischaemic,18/01/2021,15,Moderate stroke (5-15),Moderate disability,No,No,Alive,21/01/2021,Alive,22/11/2022,
+83,Female,Malay,Married,No,No,No,No,No,No,No,Ischaemic,26/01/2021,11,Moderate to severe stroke (16-20),Severe disability,No,No,Alive,31/01/2021,Died,04/02/2021,SAKIT TUA
+56,Male ,Malay,Married,Yes ,Yes ,No,No,No,No,No,Ischaemic,03/01/2021,15,Minor stroke (1-4),Slight disability,No,No,Alive,05/01/2021,Alive,22/11/2022,
+56,Female,Malay,Married,No,Yes ,No,No,No,No,No,Ischaemic,04/01/2021,15,Minor stroke (1-4),Moderately severe disability,No,No,Alive,06/01/2021,Alive,22/11/2022,
+61,Male ,Malay,Married,Yes ,Yes ,No,No,No,No,Yes ,Ischaemic,04/01/2021,15,Moderate stroke (5-15),Moderately severe disability,No,No,Alive,07/01/2021,Alive,22/11/2022,
+80,Male ,Malay,Married,Yes ,Yes ,No,No,No,Yes,No,Ischaemic,05/01/2021,15,Minor stroke (1-4),Moderately severe disability,No,No,Alive,06/01/2021,Died,10/08/2021,SEPTICEMIC SHOCK SECONDARY TO HOSPITAL ACQUIRED PNEUMONIA WITH MULTIORGAN FAILURE
+66,Female,Malay,Married,Yes ,Yes ,No,No,No,Yes,No,Ischaemic,08/01/2021,15,Moderate stroke (5-15),Moderate disability,No,No,Alive,12/01/2021,Alive,22/11/2022,
+59,Male ,Chinese,Married,Yes ,Yes ,No,No,No,No,Yes ,Ischaemic,25/01/2018,15,Minor stroke (1-4),Slight disability,No,No,Alive,25/01/2018,Alive,22/11/2022,
+83,Male ,Malay,Married,No,Yes ,No,Yes ,Yes ,No,No,Ischaemic,23/01/2018,15,Moderate stroke (5-15),Moderately severe disability,No,No,Alive,25/01/2018,Died,15/03/2019,SAKIT TUA
+52,Male ,Malay,Married,Yes ,Yes ,No,No,No,Yes,Yes ,Ischaemic,22/01/2018,15,Minor stroke (1-4),Slight disability,No,No,Alive,23/01/2018,Alive,22/11/2022,
+67,Female,Malay,Married,Yes ,Yes ,No,No,No,No,No,Ischaemic,21/01/2018,10,Severe stroke (21-42),Severe disability,No,No,Alive,25/01/2018,Died,12/06/2022,STROK
+95,Female,Malay,Married,No,Yes ,No,No,No,No,No,Ischaemic,22/01/2018,12,Moderate stroke (5-15),Moderate disability,No,No,Alive,22/01/2018,Died,15/02/2018,SAKIT TUA
+78,Female,Malay,Married,No,Yes ,No,No,No,No,No,Ischaemic,20/01/2018,13,Moderate to severe stroke (16-20),Severe disability,No,No,Alive,24/01/2018,Died,01/02/2018,SAKIT TUA
+56,Male ,Malay,Married,No,Yes ,No,No,No,No,Yes ,Ischaemic,18/01/2018,15,Moderate stroke (5-15),Moderately severe disability,No,No,Alive,21/01/2018,Alive,22/11/2022,
+63,Male ,Malay,Married,Yes ,Yes ,No,No,No,No,No,Ischaemic,16/01/2018,15,Moderate stroke (5-15),Moderately severe disability,No,No,Alive,21/01/2018,Died,30/01/2018,STROKE
+86,Female,Malay,Married,No,Yes ,No,No,No,No,No,Ischaemic,17/01/2018,15,Minor stroke (1-4),No significant disability,No,No,Alive,20/01/2018,Alive,22/11/2022,
+77,Male ,Malay,Married,Yes ,Yes ,No,No,No,No,No,Ischaemic,17/01/2018,9,Severe stroke (21-42),Slight disability,No,No,Alive,22/01/2018,Died,04/05/2019,SAKIT TUA
+30,Male ,Malay,Single,No,Yes ,No,No,No,No,No,Ischaemic,15/01/2018,15,Minor stroke (1-4),No significant disability,No,No,Alive,23/01/2018,Died,21/03/2018,SAKIT BUAH PINGGANG
+71,Female,Malay,Married,Yes ,Yes ,No,No,No,No,No,Ischaemic,14/01/2018,10,Severe stroke (21-42),Severe disability,No,No,Alive,17/01/2018,Died,16/01/2018,ACUTE STROKE WITH ASPIRATION PNEUMONIA
+41,Male ,Malay,Married,No,Yes ,No,No,No,No,No,Intracerebral Hemorrhage (ICH),11/01/2018,15,NA,Moderate disability,No,No,Alive,15/01/2018,Alive,22/11/2022,
+72,Male ,Malay,Married,No,Yes ,No,No,No,Yes,No,Ischaemic,14/01/2018,15,Minor stroke (1-4),No significant disability,No,No,Alive,16/01/2018,Alive,22/11/2022,
+85,Male ,Malay,Married,No,Yes ,No,No,No,No,Yes ,Ischaemic,13/01/2018,9,Severe stroke (21-42),Moderately severe disability,No,No,Alive,15/01/2018,Died,26/01/2018,SAKIT TUA
+79,Male ,Malay,Married,No,Yes ,No,No,No,Yes,No,Ischaemic,13/01/2018,15,Moderate stroke (5-15),Slight disability,No,No,Alive,14/01/2018,Alive,22/11/2022,
+75,Female,Malay,Married,Yes ,Yes ,No,No,No,Yes,No,Ischaemic,07/01/2018,15,Minor stroke (1-4),Moderate disability,No,No,Alive,19/01/2018,Died,21/02/2018,SAKIT TUA
+84,Female,Malay,Married,No,Yes ,No,Yes ,No,No,No,Ischaemic,08/01/2018,10,Moderate to severe stroke (16-20),Moderately severe disability,No,No,Alive,10/01/2018,Died,27/07/2018,SAKIT TUA
+72,Male ,Malay,Married,No,Yes ,No,No,No,Yes,No,Ischaemic,09/01/2018,15,Minor stroke (1-4),Moderate disability,No,No,Alive,25/01/2018,Died,27/01/2018,SAKIT TUA
+63,Male ,Malay,Married,Yes ,Yes ,No,No,Yes ,No,No,Ischaemic,09/01/2018,15,Moderate stroke (5-15),No significant disability,No,No,Alive,12/01/2018,Alive,22/11/2022,
+41,Male ,Malay,Married,Yes ,Yes ,No,No,No,Yes,No,Ischaemic,05/01/2018,15,Moderate to severe stroke (16-20),Moderately severe disability,No,No,Alive,08/01/2018,Alive,22/11/2022,
+48,Male ,Malay,Married,No,Yes ,No,No,No,No,Yes ,Ischaemic,08/01/2018,15,Moderate stroke (5-15),Moderate disability,No,No,Alive,10/01/2018,Alive,22/11/2022,
+93,Male ,Malay,Married,No,Yes ,No,No,No,No,Yes ,Intracerebral Hemorrhage (ICH),08/01/2018,11,NA,Severe disability,No,No,Alive,10/01/2018,Died,13/01/2018,STROK
+77,Female,Malay,Divorce,Yes ,Yes ,No,No,No,Yes,No,Ischaemic,05/01/2018,15,Moderate to severe stroke (16-20),Moderately severe disability,No,No,Alive,08/01/2018,Alive,22/11/2022,
+84,Female,Malay,Divorce,No,Yes ,No,No,No,No,No,Ischaemic,04/01/2018,10,Severe stroke (21-42),Moderately severe disability,No,No,Alive,06/01/2018,Died,07/01/2018,SAKIT TUA
+80,Female,Malay,Married,No,Yes ,No,No,No,No,No,Ischaemic,04/01/2018,9,Severe stroke (21-42),Moderately severe disability,No,No,Alive,07/01/2018,Died,08/01/2018,ACUTE ISCHAEMIC STROKE WITH RESPIRATORY FAILURE
+45,Female,Malay,Married,No,Yes ,No,No,No,No,No,Ischaemic,02/01/2018,15,Minor stroke (1-4),Slight disability,No,No,Alive,08/01/2018,Alive,22/11/2022,
+74,Male ,Malay,Married,No,Yes ,No,No,Yes ,No,Yes ,Ischaemic,02/01/2018,15,Minor stroke (1-4),Moderately severe disability,No,No,Alive,04/01/2018,Alive,22/11/2022,
+87,Male ,Malay,Married,No,Yes ,No,No,No,No,Yes ,Ischaemic,01/01/2018,15,Moderate stroke (5-15),Slight disability,No,No,Alive,03/01/2018,Died,20/04/2019,SAKIT TUA
+73,Female,Malay,Married,No,Yes ,No,Yes ,No,No,No,Ischaemic,04/12/2020,15,Moderate stroke (5-15),Moderately severe disability,No,No,Alive,14/12/2020,Died,08/02/2022,SEPTICEMIC SHOCK SECONDARY TO PNEUMONIA
+73,Female,Malay,Married,No,Yes ,No,No,No,No,No,Ischaemic,09/12/2020,15,Moderate stroke (5-15),Moderately severe disability,No,No,Alive,11/12/2020,Alive,22/11/2022,
+41,Female,Malay,Married,Yes ,Yes ,No,No,No,Yes,No,Ischaemic,14/12/2020,15,Moderate stroke (5-15),Moderate disability,No,No,Alive,16/12/2020,Alive,22/11/2022,
+75,Male ,Malay,Married,Yes ,Yes ,No,No,No,No,No,Ischaemic,25/12/2020,15,Moderate stroke (5-15),Severe disability,No,No,Alive,28/12/2020,Died,06/03/2022,SAKIT TUA
+54,Male ,Malay,Married,Yes ,Yes ,No,No,No,Yes,Yes ,Ischaemic,08/12/2020,15,Minor stroke (1-4),Moderate disability,No,No,Alive,10/12/2020,Alive,22/11/2022,
+27,Female,Malay,Single,No,No,No,No,No,No,No,Ischaemic,18/11/2020,15,Moderate stroke (5-15),Slight disability,No,No,Alive,20/11/2020,Alive,22/11/2022,
+73,Female,Malay,Married,Yes ,Yes ,No,No,No,No,No,Intracerebral Hemorrhage (ICH),13/12/2020,15,Moderate stroke (5-15),Severe disability,No,No,Alive,16/12/2020,Alive,22/11/2022,
+43,Male ,Malay,Married,No,Yes ,No,No,No,No,No,Intracerebral Hemorrhage (ICH),12/12/2020,15,NA,Severe disability,No,No,Alive,18/12/2020,Alive,22/11/2022,
+62,Male ,Malay,Married,Yes ,Yes ,No,No,No,No,No,Ischaemic,16/11/2020,12,Moderate stroke (5-15),Moderately severe disability,No,No,Alive,20/11/2020,Alive,22/11/2022,
+67,Male ,Malay,Married,No,Yes ,No,No,No,No,No,Ischaemic,21/12/2020,15,Moderate stroke (5-15),Slight disability,No,No,Alive,27/12/2020,Alive,22/11/2022,
+80,Male ,Malay,Married,Yes ,Yes ,No,No,No,No,No,Ischaemic,12/12/2020,14,Moderate to severe stroke (16-20),Severe disability,No,No,Alive,17/12/2020,Died,26/12/2020,SAKIT TUA
+77,Male ,Malay,Married,Yes ,Yes ,No,No,No,Yes,No,Ischaemic,03/03/2018,15,Moderate stroke (5-15),Severe disability,No,No,Alive,06/03/2018,Alive,22/11/2022,
+66,Male ,Malay,Married,No,Yes ,No,No,No,Yes,No,Ischaemic,15/12/2020,15,Moderate stroke (5-15),Moderately severe disability,No,No,Alive,16/12/2020,Alive,22/11/2022,
+72,Female,Malay,Married,Yes ,Yes ,No,No,No,No,No,Ischaemic,01/03/2018,15,Minor stroke (1-4),Moderately severe disability,No,No,Alive,05/03/2018,Died,08/05/2022,SUBARACHNOID HEMORRHAGE WITH SEVERE SEPSIS
+43,Female,Malay,Married,No,Yes ,No,No,No,No,No,Ischaemic,13/12/2020,15,Minor stroke (1-4),Slight disability,No,No,Alive,15/12/2020,Alive,22/11/2022,
+48,Male ,Malay,Married,Yes ,Yes ,No,No,No,No,No,Intracerebral Hemorrhage (ICH),12/12/2020,10,NA,Moderately severe disability,No,No,Alive,17/12/2020,Alive,22/11/2022,
+75,Male ,Malay,Married,Yes ,Yes ,No,No,No,No,No,Ischaemic,20/12/2020,15,Moderate stroke (5-15),Moderate disability,No,No,Alive,26/12/2020,Alive,22/11/2022,
+74,Male ,Malay,Married,No,Yes ,No,No,No,Yes,No,Ischaemic,18/12/2020,15,Minor stroke (1-4),Moderately severe disability,No,No,Alive,20/12/2020,Alive,22/11/2022,
+79,Male ,Malay,Married,No,Yes ,No,No,No,Yes,No,Ischaemic,25/12/2020,15,Moderate stroke (5-15),Slight disability,No,No,Alive,27/12/2020,Alive,22/11/2022,
+52,Male ,Malay,Married,No,Yes ,No,No,No,No,No,Ischaemic,26/12/2020,12,Minor stroke (1-4),No significant disability,No,No,Alive,28/12/2020,Alive,22/11/2022,
+92,Female,Malay,Divorce,No,Yes ,No,No,No,No,No,Ischaemic,12/12/2020,3,Moderate to severe stroke (16-20),Moderately severe disability,No,No,Alive,15/12/2020,Died,29/12/2020,SAKIT TUA
+50,Female,Malay,Married,No,Yes ,No,No,No,No,No,Ischaemic,26/11/2020,15,Minor stroke (1-4),No symptom,No,No,Alive,28/11/2020,Alive,22/11/2022,
+59,Female,Malay,Married,No,Yes ,No,No,No,No,No,Intracerebral Hemorrhage (ICH),08/11/2020,15,Moderate stroke (5-15),Moderately severe disability,No,No,Alive,11/11/2020,Alive,22/11/2022,
+65,Male ,Malay,Married,Yes ,Yes ,No,No,No,No,Yes ,Ischaemic,04/12/2020,15,Moderate stroke (5-15),Severe disability,No,No,Alive,09/12/2020,Alive,22/11/2022,
+73,Female,Malay,Married,Yes ,Yes ,No,No,No,Yes,No,Ischaemic,13/12/2020,15,Minor stroke (1-4),Moderate disability,No,No,Alive,15/12/2020,Alive,22/11/2022,
+46,Female,Malay,Married,No,Yes ,No,No,No,No,No,Ischaemic,07/12/2020,15,Minor stroke (1-4),No symptom,No,No,Alive,08/12/2020,Alive,22/11/2022,
+71,Female,Malay,NA,Yes ,Yes ,No,No,No,No,No,Ischaemic,06/12/2020,15,Moderate stroke (5-15),Severe disability,No,No,Alive,09/12/2020,Alive,22/11/2022,
+63,Female,Malay,Married,Yes ,Yes ,No,No,No,No,No,Ischaemic,19/11/2020,15,Minor stroke (1-4),Slight disability,No,No,Alive,21/11/2020,Alive,22/11/2022,
+77,Female,Malay,Married,Yes ,Yes ,No,No,No,Yes,No,Ischaemic,13/11/2020,10,Severe stroke (21-42),Severe disability,No,No,Alive,18/11/2020,Died,01/06/2021,SAKIT TUA
+62,Male ,Malay,Married,Yes ,Yes ,No,No,No,No,Yes ,Ischaemic,29/11/2020,15,Moderate stroke (5-15),Severe disability,No,No,Alive,30/11/2020,Alive,22/11/2022,
+54,Male ,Malay,Single,Yes ,Yes ,No,No,No,No,No,Ischaemic,27/11/2020,8,Moderate stroke (5-15),Moderate disability,No,No,Alive,30/11/2020,Alive,22/11/2022,
+93,Male ,Malay,NA,Yes ,Yes ,No,No,No,Yes,No,Ischaemic,17/11/2020,15,Minor stroke (1-4),Severe disability,No,No,Alive,19/11/2020,Died,29/05/2022,SAKIT TUA
+62,Female,Malay,Married,Yes ,Yes ,No,No,No,Yes,No,Ischaemic,13/11/2020,15,Minor stroke (1-4),No symptom,No,No,Alive,16/11/2020,Alive,22/11/2022,
+60,Male ,Malay,Married,No,Yes ,No,No,No,No,No,Ischaemic,08/11/2020,15,Minor stroke (1-4),Moderate disability,No,No,Alive,10/11/2020,Alive,22/11/2022,
+58,Male ,Malay,Married,Yes ,Yes ,No,No,No,No,No,Ischaemic,14/11/2020,15,Minor stroke (1-4),No significant disability,No,No,Alive,16/11/2020,Alive,22/11/2022,
+56,Male ,Malay,Married,No,Yes ,No,No,No,Yes,No,Ischaemic,10/02/2020,9,Severe stroke (21-42),Moderately severe disability,No,No,Alive,12/02/2020,Died,19/02/2020,ACUTE LEFT MIDDLE CERERAL ATRERY INFARCT
+67,Male ,Malay,Married,Yes ,Yes ,No,No,No,No,No,Ischaemic,16/02/2020,15,Minor stroke (1-4),Slight disability,No,No,Alive,17/02/2020,Alive,22/11/2022,
+53,Male ,Chinese,Married,No,Yes ,No,No,No,Yes,No,Ischaemic,10/02/2020,15,Moderate stroke (5-15),Moderately severe disability,No,No,Alive,11/02/2020,Alive,22/11/2022,
+80,Female,Malay,Married,Yes ,Yes ,No,No,Yes ,Yes,No,Intracerebral Hemorrhage (ICH),25/02/2020,12,NA,Severe disability,No,No,Alive,25/02/2020,Died,27/02/2020,ACUTE ISCHEMIC STROKE WITH HEMORHAGIC TRANSFORMATION
+78,Male ,Malay,NA,No,No,No,No,Yes ,No,No,Ischaemic,26/01/2020,15,Moderate stroke (5-15),Severe disability,No,No,Alive,26/01/2020,Died,01/02/2020,SAKIT TUA
+67,Male ,Malay,NA,No,Yes ,No,No,No,No,No,Ischaemic,23/01/2020,15,Minor stroke (1-4),Moderate disability,No,No,Alive,26/01/2020,Alive,22/11/2022,
+50,Female,Malay,Married,No,Yes ,No,No,No,No,No,Intracerebral Hemorrhage (ICH),29/02/2020,15,NA,Moderately severe disability,No,No,Alive,02/03/2020,Alive,22/11/2022,
+55,Male ,Malay,NA,No,Yes ,No,No,No,Yes,No,Ischaemic,24/01/2020,15,Moderate stroke (5-15),Moderate disability,No,No,Alive,26/01/2020,Alive,22/11/2022,
+57,Female,Malay,Married,Yes ,Yes ,No,No,No,Yes,No,Ischaemic,28/02/2020,15,Moderate stroke (5-15),Moderately severe disability,No,No,Alive,02/03/2020,Alive,22/11/2022,
+53,Male ,Malay,Married,Yes ,Yes ,No,No,Yes ,Yes,Yes ,Ischaemic,23/02/2020,13,Moderate to severe stroke (16-20),Moderately severe disability,No,No,Alive,01/03/2020,Died,29/06/2020,"STROK, SAKIT JANTUNG"
+60,Male ,Malay,Married,No,No,No,No,No,No,No,Ischaemic,06/03/2020,15,Minor stroke (1-4),No significant disability,No,No,Alive,10/03/2020,Alive,22/11/2022,
+69,Female,Malay,Married,Yes ,Yes ,No,No,No,No,No,Ischaemic,13/03/2020,14,Moderate stroke (5-15),Severe disability,No,No,Alive,16/03/2020,Died,31/03/2020,SEPTIC SHOCK WITH MULTIORGAN FAILURE
+78,Female,Malay,Married,Yes ,Yes ,No,No,No,Yes,No,Ischaemic,11/03/2020,14,Moderate to severe stroke (16-20),Moderately severe disability,No,No,Alive,13/03/2020,Died,08/04/2022,SAKIT TUA
+81,Female,Malay,Married,No,Yes ,No,No,No,Yes,No,Intracerebral Hemorrhage (ICH),12/10/2020,10,Moderate stroke (5-15),Moderately severe disability,No,No,Alive,15/10/2020,Died,21/10/2020,STROKE
+60,Male ,Malay,Married,Yes ,Yes ,No,No,No,No,No,Ischaemic,30/09/2020,15,Minor stroke (1-4),Slight disability,No,No,Alive,02/10/2020,Alive,22/11/2022,
+73,Male ,Malay,Married,Yes ,Yes ,No,No,No,No,No,Ischaemic,04/10/2020,15,Minor stroke (1-4),Slight disability,No,No,Alive,05/10/2020,Alive,22/11/2022,
+63,Male ,Malay,Married,No,Yes ,No,No,No,Yes,No,Ischaemic,11/10/2020,15,Moderate stroke (5-15),Slight disability,No,No,Alive,13/10/2020,Alive,22/11/2022,
+60,Male ,Malay,Married,No,Yes ,No,No,No,No,No,Ischaemic,16/10/2020,15,Moderate stroke (5-15),Moderately severe disability,No,No,Alive,20/10/2020,Alive,22/11/2022,
+49,Female,Chinese,Married,Yes ,Yes ,No,No,No,No,No,Ischaemic,17/10/2020,15,Minor stroke (1-4),Slight disability,No,No,Alive,19/10/2020,Alive,22/11/2022,
+35,Male ,Malay,Single,No,Yes ,No,No,No,Yes,No,Ischaemic,21/10/2020,15,Minor stroke (1-4),No significant disability,No,No,Alive,23/10/2020,Alive,22/11/2022,
+66,Female,Malay,Divorce,No,Yes ,No,No,No,No,No,Ischaemic,18/10/2020,15,Minor stroke (1-4),No significant disability,No,No,Alive,19/10/2020,Alive,22/11/2022,
+81,Female,Malay,Married,Yes ,Yes ,No,No,No,Yes,No,Ischaemic,24/07/2020,15,Moderate stroke (5-15),Moderately severe disability,No,No,Alive,30/07/2020,Alive,22/11/2022,
+24,Female,Malay,Married,No,No,No,No,No,No,No,Ischaemic,06/07/2020,12,Moderate stroke (5-15),Slight disability,No,No,Alive,08/07/2020,Alive,22/11/2022,
+56,Male ,Malay,Married,No,Yes ,No,No,No,Yes,No,Intracerebral Hemorrhage (ICH),23/07/2020,15,Minor stroke (1-4),No significant disability,No,No,Alive,27/07/2020,Alive,22/11/2022,
+74,Male ,Malay,Married,No,Yes ,No,No,No,No,No,Ischaemic,08/10/2020,15,Moderate stroke (5-15),Slight disability,No,No,Alive,09/10/2020,Died,24/02/2022,SAKIT TUA
+63,Male ,Malay,Married,No,Yes ,No,No,No,No,No,Ischaemic,01/10/2020,11,Moderate stroke (5-15),Slight disability,No,No,Alive,07/10/2020,Died,22/05/2021,SAKIT TUA
+58,Male ,Malay,Married,No,Yes ,No,No,No,No,Yes ,Ischaemic,05/10/2020,15,Minor stroke (1-4),Moderate disability,No,No,Alive,07/10/2020,Died,19/10/2020,SAKIT STROK
+31,Male ,Malay,Single,Yes ,Yes ,No,No,No,Yes,No,Intracerebral Hemorrhage (ICH),25/10/2020,15,NA,Moderate disability,No,No,Alive,02/11/2020,Alive,22/11/2022,
+49,Male ,Malay,Married,No,Yes ,No,No,Yes ,Yes,Yes ,Ischaemic,23/10/2020,15,Minor stroke (1-4),No significant disability,No,No,Alive,26/10/2020,Alive,22/11/2022,
+53,Male ,Malay,Married,No,Yes ,No,No,No,Yes,No,Ischaemic,01/10/2020,12,Moderate to severe stroke (16-20),Moderately severe disability,No,No,Alive,07/10/2020,Alive,22/11/2022,
+67,Female,Malay,Married,Yes ,Yes ,No,No,No,No,No,Ischaemic,16/11/2020,15,Moderate stroke (5-15),Moderately severe disability,No,No,Alive,18/11/2020,Alive,22/11/2022,
+40,Female,Malay,Married,No,Yes ,No,No,No,No,No,Intracerebral Hemorrhage (ICH),17/11/2020,15,NA,Moderate disability,No,No,Alive,19/11/2020,Alive,22/11/2022,
+73,Female,Malay,Divorce,No,Yes ,No,No,No,Yes,No,Ischaemic,25/10/2020,15,Minor stroke (1-4),No significant disability,No,No,Alive,26/10/2020,Alive,22/11/2022,
+65,Female,Malay,Married,No,Yes ,No,No,No,No,No,Ischaemic,25/07/2020,15,Minor stroke (1-4),No significant disability,No,No,Alive,29/07/2020,Alive,22/11/2022,
+59,Female,Malay,Married,No,Yes ,No,No,No,No,No,Ischaemic,30/07/2020,11,Minor stroke (1-4),Moderately severe disability,No,No,Alive,01/08/2020,Died,13/09/2020,SAKIT LUMPUH
+68,Male ,Malay,Married,Yes ,Yes ,No,No,No,Yes,No,Ischaemic,20/01/2020,15,Minor stroke (1-4),No significant disability,No,No,Alive,21/01/2020,Alive,22/11/2022,
+74,Male ,Malay,Married,No,Yes ,No,No,No,No,No,Ischaemic,27/07/2020,15,Moderate stroke (5-15),Moderately severe disability,No,No,Alive,29/07/2020,Died,23/12/2021,SAKIT TUA
+48,Male ,Malay,Married,No,No,No,No,Yes ,Yes,Yes ,Ischaemic,21/07/2020,11,Moderate stroke (5-15),Severe disability,No,No,Alive,28/07/2020,Alive,22/11/2022,
+84,Female,Malay,Married,Yes ,Yes ,No,No,No,Yes,No,Ischaemic,26/07/2020,15,Minor stroke (1-4),No significant disability,No,No,Alive,28/07/2020,Alive,22/11/2022,
+72,Female,Malay,Married,No,Yes ,No,No,No,No,No,Intracerebral Hemorrhage (ICH),04/07/2020,14,NA,Moderately severe disability,No,No,Alive,08/07/2020,Died,18/09/2020,SAKIT TUA
+63,Female,Malay,Married,Yes ,Yes ,No,No,No,No,No,Ischaemic,24/07/2020,13,Moderate stroke (5-15),Moderately severe disability,No,No,Alive,27/07/2020,Alive,22/11/2022,
+50,Male ,Malay,Married,No,Yes ,No,No,No,No,No,Ischaemic,21/07/2020,15,Minor stroke (1-4),No significant disability,No,No,Alive,24/07/2020,Alive,22/11/2022,
+76,Male ,Malay,Married,Yes ,Yes ,No,No,No,Yes,No,Ischaemic,16/07/2020,15,Minor stroke (1-4),Moderate disability,No,No,Alive,19/07/2020,Alive,22/11/2022,
+84,Female,Malay,Married,No,Yes ,No,Yes ,No,No,No,Ischaemic,01/11/2020,15,Minor stroke (1-4),Moderate disability,No,No,Alive,03/11/2020,Alive,22/11/2022,
+50,Female,Malay,Married,Yes ,Yes ,No,No,No,No,No,Ischaemic,20/06/2020,15,Minor stroke (1-4),No significant disability,No,No,Alive,21/06/2020,Alive,22/11/2022,
+56,Male ,Malay,Married,Yes ,Yes ,No,No,No,Yes,No,Ischaemic,07/06/2020,15,Minor stroke (1-4),No significant disability,No,No,Alive,08/06/2020,Alive,22/11/2022,
+58,Male ,Malay,Married,Yes ,Yes ,No,No,No,Yes,No,Ischaemic,03/06/2020,15,Minor stroke (1-4),No significant disability,No,No,Alive,07/06/2020,Alive,22/11/2022,
+60,Female,Malay,Married,Yes ,Yes ,No,No,No,No,No,Ischaemic,02/11/2020,15,Moderate stroke (5-15),Moderately severe disability,No,No,Alive,03/11/2020,Died,05/12/2021,SEPTIC SHOCK WITH MULTIORGAN FAILURE SECONDARY TO NECROTISING FASCIITIS OF ANTERIOR ABDOMINAL WALL
+65,Male ,Malay,Married,No,Yes ,No,No,No,No,No,Ischaemic,30/06/2020,15,Minor stroke (1-4),No symptom,No,No,Alive,01/07/2020,Alive,22/11/2022,
+61,Female,Malay,Married,Yes ,Yes ,No,No,No,No,No,Ischaemic,18/07/2020,15,Minor stroke (1-4),Slight disability,No,No,Alive,20/07/2020,Alive,22/11/2022,
+76,Male ,Malay,Married,No,Yes ,No,No,Yes ,Yes,No,Ischaemic,10/07/2020,15,Minor stroke (1-4),No significant disability,No,No,Alive,11/07/2020,Alive,22/11/2022,
+60,Female,Malay,Married,No,Yes ,No,No,No,Yes,No,Ischaemic,28/04/2020,15,Minor stroke (1-4),Moderate disability,No,No,Alive,30/04/2020,Alive,22/11/2022,
+54,Female,Malay,Married,Yes ,Yes ,No,No,No,No,No,Ischaemic,01/07/2020,15,Minor stroke (1-4),Slight disability,No,No,Alive,03/07/2020,Died,19/02/2021,DARAH TINGGI
+50,Male ,Malay,Married,Yes ,No,No,No,No,No,No,Ischaemic,06/07/2020,15,Minor stroke (1-4),No symptom,No,No,Alive,18/07/2020,Alive,22/11/2022,
+70,Male ,Malay,Married,Yes ,Yes ,No,No,No,Yes,No,Ischaemic,02/08/2020,15,Moderate stroke (5-15),Moderate disability,No,No,Alive,06/08/2020,Alive,22/11/2022,
+64,Male ,Malay,NA,No,No,,No,,No,No,Ischaemic,01/01/2021,15,No stroke symptoms (0),Slight disability,No,No,Alive,,Alive,22/11/2022,
+78,Male ,Malay,NA,Yes ,Yes ,,No,,No,No,Ischaemic,01/01/2021,15,Moderate stroke (5-15),Moderately severe disability,No,No,Alive,,Died,20/01/2021,SAKIT TUA
+67,Male ,Malay,NA,Yes ,Yes ,,No,,No,No,Ischaemic,03/01/2021,15,Minor stroke (1-4),Slight disability,No,No,Alive,,Alive,22/11/2022,
+92,Female,Malay,NA,Yes ,Yes ,,No,,No,No,Ischaemic,03/01/2021,15,No stroke symptoms (0),Severe disability,No,No,Alive,,Died,24/08/2021,INTRAABDOMINAL SEPSIS
+42,Male ,Malay,NA,Yes ,Yes ,,No,,Yes,No,Ischaemic,04/01/2021,15,Moderate stroke (5-15),Moderately severe disability,No,No,Alive,,Died,28/03/2022,COVID-19 PNEUMONIA CATEGORY 5A DAY 18 OF ILLNESS
+70,Male ,Malay,NA,No,Yes ,,No,,No,No,ICH,03/01/2021,5,NA,Died (dischrage),No,No,Death,,Died,06/01/2021,BRAIN STEM BLEED
+36,Female,Malay,NA,No,Yes ,,No,,No,No,Ischaemic,05/01/2021,15,Minor stroke (1-4),No significant disability,No,No,Alive,,Alive,22/11/2022,
+76,Male ,Indian,NA,No,Yes ,,No,,No,No,Ischaemic,05/01/2021,15,Minor stroke (1-4),No significant disability,No,No,Alive,,Alive,22/11/2022,
+86,Female,Chinese,NA,No,Yes ,,No,,No,No,Ischaemic,07/01/2021,Missing,Minor stroke (1-4),Moderately severe disability,No,No,Alive,,Alive,22/11/2022,
+80,Male ,Malay,NA,Yes ,Yes ,,No,,No,No,Ischaemic,06/01/2021,15,Minor stroke (1-4),NA,No,No,Alive,,Alive,22/11/2022,
+62,Male ,Chinese,NA,No,No,,No,,No,No,Ischaemic,04/01/2021,15,Moderate stroke (5-15),No symptom,Yes,No,Alive,,Died,08/04/2022,SEVERE PNEUMONIA
+44,Male ,Indian,NA,No,No,,No,,No,No,Ischaemic,10/01/2021,15,Minor stroke (1-4),No significant disability,No,No,Alive,,Alive,22/11/2022,
+50,Female,Malay,NA,Yes ,Yes ,,No,,Yes,No,Ischaemic,10/01/2021,15,Minor stroke (1-4),No significant disability,No,No,Alive,,Alive,22/11/2022,
+65,Male ,Indian,NA,Yes ,Yes ,,No,,Yes,No,Ischaemic,11/01/2021,15,Minor stroke (1-4),Slight disability,No,No,Alive,,Alive,22/11/2022,
+82,Female,Chinese,NA,Yes ,No,,No,,No,No,Ischaemic,12/01/2021,15,Minor stroke (1-4),No significant disability,No,No,Alive,,Alive,22/11/2022,
+55,Female,Indian,NA,No,Yes ,,No,,No,No,Ischaemic,12/01/2021,15,Minor stroke (1-4),No significant disability,No,No,Alive,,Alive,22/11/2022,
+52,Male ,Malay,NA,No,No,,No,,No,No,ICH,13/01/2021,15,Moderate to severe stroke (16-20),Moderately severe disability,No,No,Alive,,Alive,22/11/2022,
+72,Male ,Malay,NA,No,Yes ,,No,,No,No,Ischaemic,16/01/2021,15,Minor stroke (1-4),Slight disability,No,No,Alive,,Alive,22/11/2022,
+62,Male ,Malay,NA,No,Yes ,,No,,No,No,Ischaemic,16/01/2021,15,Minor stroke (1-4),Slight disability,No,No,Alive,,Alive,22/11/2022,
+72,Male ,Malay,NA,No,Yes ,,Yes ,,No,No,Ischaemic,17/01/2021,15,Minor stroke (1-4),Slight disability,No,No,Alive,,Alive,22/11/2022,
+52,Male ,Chinese,NA,No,No,,No,,No,No,Ischaemic,16/01/2021,15,Moderate stroke (5-15),Moderate disability,No,No,Alive,,Alive,22/11/2022,
+56,Male ,Malay,NA,Yes ,No,,No,,No,No,Ischaemic,17/01/2021,15,Minor stroke (1-4),No significant disability,No,No,Alive,,Alive,22/11/2022,
+40,Male ,Malay,NA,Yes ,No,,No,,No,No,Ischaemic,19/01/2021,15,Minor stroke (1-4),No significant disability,No,No,Alive,,Alive,22/11/2022,
+62,Male ,Chinese,NA,Yes ,Yes ,,No,,No,No,Ischaemic,20/01/2021,15,No stroke symptoms (0),No significant disability,No,No,Alive,,Alive,22/11/2022,
+91,Male ,Chinese,NA,Yes ,Yes ,,No,,No,No,Ischaemic,25/01/2021,15,Minor stroke (1-4),No significant disability,No,No,Alive,,Alive,22/11/2022,
+67,Male ,Chinese,NA,No,No,,No,,No,No,Ischaemic,Missing,15,No stroke symptoms (0),NA,No,No,Alive,,Alive,22/11/2022,
+NA,Male ,Chinese,NA,No,No,,No,,No,No,Ischaemic,Missing,15,No stroke symptoms (0),NA,No,No,Alive,,Alive,22/11/2022,
+35,Male ,Malay,NA,No,No,,No,,No,No,Ischaemic,Missing,15,No stroke symptoms (0),NA,No,No,Alive,,Died,07/04/2022,LOWER GASTROINTESTINAL BLEED SECONDARY TO JEJUNAL AND TERMINAL ILEAL ULCER WITH RECENT STROKE
+74,Female,Chinese,NA,No,No,,No,,No,No,Ischaemic,Missing,15,No stroke symptoms (0),NA,No,No,Alive,,Alive,22/11/2022,
+81,Male ,Malay,NA,No,No,,No,,No,No,Ischaemic,Missing,15,No stroke symptoms (0),NA,No,No,Alive,,Alive,22/11/2022,
+54,Female,Malay,NA,No,No,,No,,No,No,Ischaemic,Missing,15,No stroke symptoms (0),NA,No,No,Alive,,Alive,22/11/2022,
+70,Male ,Malay,NA,No,No,,No,,No,No,Ischaemic,Missing,15,No stroke symptoms (0),NA,No,No,Alive,,Alive,22/11/2022,
+38,Male ,Malay,NA,No,No,,No,,No,No,Ischaemic,Missing,15,No stroke symptoms (0),NA,No,No,Alive,,Alive,22/11/2022,
+55,Male ,Chinese,NA,No,No,,No,,No,No,Ischaemic,Missing,15,No stroke symptoms (0),NA,No,No,Alive,,Alive,22/11/2022,
+68,Male ,Malay,NA,No,No,,No,,No,No,Ischaemic,Missing,15,No stroke symptoms (0),NA,No,No,Alive,,Alive,22/11/2022,
+60,Male ,Indian,NA,Yes ,Yes ,,No,,Yes,No,Ischaemic,22/02/2021,15,Minor stroke (1-4),Moderate disability,No,No,Alive,,Alive,22/11/2022,
+79,Male ,Malay,NA,Yes ,No,,No,,No,No,ICH,17/02/2021,10,Moderate stroke (5-15),Severe disability,No,No,Alive,,Died,28/04/2021,SAKIT TUA
+53,Male ,Indian,NA,Yes ,Yes ,,No,,No,No,ICH,18/02/2021,9,NA,Moderately severe disability,No,No,Alive,,Alive,22/11/2022,
+70,Male ,Chinese,NA,No,Yes ,,Yes ,,No,No,Ischaemic,10/02/2021,15,Moderate stroke (5-15),Moderate disability,No,No,Alive,,Died,15/02/2022,SEPTIC SHOCK WITH MULTI ORGAN FAILURE
+83,Female,Indian,NA,Yes ,Yes ,,No,,No,No,Ischaemic,23/02/2021,13,No stroke symptoms (0),Severe disability,No,No,Alive,,Died,13/04/2021,PNEUMONIA
+53,Male ,Indian,NA,No,No,,No,,No,No,ICH,04/02/2021,15,Minor stroke (1-4),Slight disability,No,No,Alive,,Alive,22/11/2022,
+62,Male ,Chinese,NA,No,Yes ,,No,,No,No,Ischaemic,30/01/2021,15,Minor stroke (1-4),No significant disability,No,No,Alive,,Alive,22/11/2022,
+59,Female,Malay,NA,Yes ,Yes ,,No,,No,No,Ischaemic,21/02/2021,15,No stroke symptoms (0),Slight disability,No,No,Alive,,Alive,22/11/2022,
+72,Male ,Indian,NA,No,No,,No,,No,No,Ischaemic,08/02/2021,11,No stroke symptoms (0),Died (dischrage),No,No,Death,,Died,08/02/2021,SEPTIC SHOCK SECONDARY TO NOSOCOMIAL INFECTION
+48,Female,Indian,NA,No,Yes ,,No,,No,No,Ischaemic,11/02/2021,15,Minor stroke (1-4),Slight disability,No,No,Alive,,Alive,22/11/2022,
+73,Female,Malay,NA,Yes ,Yes ,,No,,No,No,Ischaemic,09/02/2021,15,Moderate stroke (5-15),Moderately severe disability,No,No,Alive,,Alive,22/11/2022,
+76,Male ,Chinese,NA,Yes ,Yes ,,No,,Yes,No,ICH,26/02/2021,9,No stroke symptoms (0),Severe disability,No,No,Alive,,Alive,22/11/2022,
+73,Male ,Chinese,NA,No,Yes ,,No,,No,No,Ischaemic,20/02/2021,15,Minor stroke (1-4),Slight disability,No,No,Alive,,Alive,22/11/2022,
+82,Female,Malay,NA,No,Yes ,,Yes ,,No,No,Ischaemic,21/02/2021,11,Severe stroke (21-42),Moderate disability,Yes,No,Alive,,Alive,22/11/2022,
+70,Female,Malay,NA,No,Yes ,,No,,Yes,No,Ischaemic,22/02/2021,15,Minor stroke (1-4),No significant disability,No,No,Alive,,Alive,22/11/2022,
+62,Male ,Malay,NA,No,Yes ,,No,,No,No,Ischaemic,26/02/2021,15,Minor stroke (1-4),Slight disability,No,No,Alive,,Died,11/02/2022,SAKIT TUA
+71,Male ,Malay,NA,No,Yes ,,No,,Yes,No,Ischaemic,13/02/2021,5,Severe stroke (21-42),Died (dischrage),No,No,Death,,Died,26/02/2021,SEPTIC SHOCK SECONDARY ASPIRATION PNEUMONIA
+70,Male ,Malay,NA,No,Yes ,,No,,No,No,Ischaemic,20/02/2021,15,Minor stroke (1-4),No significant disability,No,No,Alive,,Alive,22/11/2022,
+65,Male ,Chinese,NA,Yes ,Yes ,,No,,No,No,Ischaemic,12/02/2021,10,NA,Moderate disability,No,No,Alive,,Died,15/04/2021,PNEUMONIA WITH SEPTIC SHOCK AND ACUTE RENAL FAILURE
+70,Male ,Malay,NA,Yes ,Yes ,,No,,No,No,Ischaemic,14/02/2021,15,Minor stroke (1-4),No significant disability,No,No,Alive,,Alive,22/11/2022,
+NA,Male ,Malay,NA,No,No,,No,,No,No,Ischaemic,15/02/2021,15,Minor stroke (1-4),No significant disability,No,No,Alive,,Alive,22/11/2022,
+78,Female,Chinese,NA,No,Yes ,,No,,No,No,Ischaemic,23/01/2021,9,Severe stroke (21-42),Moderately severe disability,No,No,Alive,,Died,14/02/2021,SEVERE PNEUMONIA
+73,Female,Malay,NA,No,Yes ,,No,,Yes,No,Ischaemic,09/02/2021,15,Minor stroke (1-4),No significant disability,No,No,Alive,,Alive,22/11/2022,
+76,Female,Malay,NA,Yes ,Yes ,,No,,Yes,No,Ischaemic,18/02/2021,3,No stroke symptoms (0),Died (dischrage),No,No,Death,,Died,22/02/2021,ASPIRATION PNEUMONIA
+40,Male ,Indian,NA,Yes ,Yes ,,No,,No,No,Ischaemic,10/02/2021,13,Moderate to severe stroke (16-20),Moderately severe disability,No,No,Alive,,Alive,22/11/2022,
+80,Female,Malay,NA,Yes ,No,,Yes ,,No,No,Ischaemic,13/02/2021,10,Severe stroke (21-42),Severe disability,No,No,Alive,,Died,01/06/2021,SAKIT JANTUNG
+54,Male ,Malay,NA,No,No,,No,,No,No,Ischaemic,09/02/2021,15,Minor stroke (1-4),Moderate disability,No,No,Alive,,Alive,22/11/2022,
+56,Male ,Malay,NA,No,No,,No,,No,No,ICH,24/02/2021,13,No stroke symptoms (0),Moderately severe disability,No,No,Alive,,Alive,22/11/2022,
+75,Male ,Chinese,NA,Yes ,Yes ,,No,,Yes,No,Ischaemic,15/02/2021,15,Minor stroke (1-4),No significant disability,No,No,Alive,,Alive,22/11/2022,
+44,Male ,Indian,NA,No,No,,No,,No,No,Ischaemic,30/01/2021,15,Minor stroke (1-4),No significant disability,No,No,Alive,,Alive,22/11/2022,
+67,Female,Chinese,NA,No,No,,No,,No,No,Ischaemic,01/02/2021,15,Moderate stroke (5-15),Moderately severe disability,No,No,Alive,,Alive,22/11/2022,
+54,Male ,Malay,NA,No,No,,No,,No,No,Ischaemic,09/02/2021,15,Moderate stroke (5-15),Slight disability,No,No,Alive,,Alive,22/11/2022,
+64,Female,Malay,NA,No,No,,No,,No,No,Ischaemic,27/02/2021,15,Minor stroke (1-4),Slight disability,No,No,Alive,,Alive,22/11/2022,
+54,Male ,Malay,NA,No,Yes ,,No,,Yes,No,ICH,04/02/2021,15,No stroke symptoms (0),Slight disability,No,No,Alive,,Alive,22/11/2022,
+NA,Male ,Malay,NA,No,No,,No,,No,No,SAH,Missing,15,No stroke symptoms (0),Died (dischrage),No,No,Death,,Alive,22/11/2022,
+NA,Male ,Malay,NA,No,No,,No,,No,No,Ischaemic,Missing,15,No stroke symptoms (0),Died (dischrage),No,No,Death,,Alive,22/11/2022,
+NA,Female,Indian,NA,NA,NA,,,,NA,NA,Ischaemic,Missing,15,No stroke symptoms (0),Died (dischrage),No,No,Death,,Alive,22/11/2022,
+NA,Male ,Malay,NA,NA,NA,,,,NA,NA,Ischaemic,Missing,15,No stroke symptoms (0),Died (dischrage),No,No,Death,,Alive,22/11/2022,
+NA,Female,Indian,NA,NA,NA,,,,NA,NA,Ischaemic,Missing,15,No stroke symptoms (0),Died (dischrage),No,No,Death,,Alive,22/11/2022,
+NA,Female,Malay,NA,NA,NA,,,,NA,NA,Ischaemic,Missing,15,No stroke symptoms (0),Died (dischrage),No,No,Death,,Alive,22/11/2022,
+44,Male ,Malay,NA,No,No,,No,,No,No,Ischaemic,Missing,15,No stroke symptoms (0),NA,No,No,Alive,,Alive,22/11/2022,
+86,Female,Malay,NA,No,No,,No,,No,No,Ischaemic,Missing,15,No stroke symptoms (0),NA,No,No,Alive,,Alive,22/11/2022,
+79,Male ,Chinese,NA,No,No,,No,,No,No,Ischaemic,Missing,15,No stroke symptoms (0),NA,No,No,Alive,,Alive,22/11/2022,
+87,Female,Malay,NA,No,No,,No,,No,No,Ischaemic,Missing,15,No stroke symptoms (0),NA,No,No,Alive,,Died,03/07/2021,SAKIT TUA
+30,Female,Malay,NA,No,No,,No,,No,No,Ischaemic,Missing,15,No stroke symptoms (0),NA,No,No,Alive,,Alive,22/11/2022,
+51,Male ,Indian,NA,No,No,,No,,No,No,Ischaemic,Missing,15,No stroke symptoms (0),NA,No,No,Alive,,Alive,22/11/2022,
+56,Male ,Malay,NA,No,No,,No,,No,No,Ischaemic,Missing,15,No stroke symptoms (0),NA,No,No,Alive,,Alive,22/11/2022,
+54,Male ,Chinese,NA,No,No,,No,,No,No,Ischaemic,Missing,15,No stroke symptoms (0),NA,No,No,Alive,,Alive,22/11/2022,
+82,Male ,Malay,NA,Yes ,Yes ,,No,,No,No,Ischaemic,15/03/2021,15,Minor stroke (1-4),No significant disability,No,No,Alive,,Alive,22/11/2022,
+62,Male ,Malay,NA,Yes ,Yes ,,No,,No,No,Ischaemic,15/03/2021,8,Moderate to severe stroke (16-20),No significant disability,No,No,Alive,,Died,16/08/2021,COVID-19 PNEUMONIA
+70,Male ,Malay,NA,No,Yes ,,No,,No,No,Ischaemic,04/03/2021,15,Minor stroke (1-4),No significant disability,No,No,Alive,,Alive,22/11/2022,
+73,Male ,Chinese,NA,No,Yes ,,No,,Yes,No,Ischaemic,03/03/2021,15,Moderate stroke (5-15),Moderate disability,No,No,Alive,,Alive,22/11/2022,
+86,Male ,Chinese,NA,No,Yes ,,No,,No,No,Ischaemic,05/03/2021,15,Moderate stroke (5-15),Moderately severe disability,No,No,Alive,,Died,23/04/2021,SAKIT TUA
+72,Male ,Chinese,NA,No,No,,No,,Yes,No,Ischaemic,03/03/2021,15,Minor stroke (1-4),No significant disability,No,No,Alive,,Alive,22/11/2022,
+64,Male ,Chinese,NA,Yes ,Yes ,,No,,Yes,No,Ischaemic,01/03/2021,15,Minor stroke (1-4),No symptom,No,No,Alive,,Alive,22/11/2022,
+70,Male ,Malay,NA,Yes ,Yes ,,No,,No,No,Ischaemic,18/03/2021,15,Moderate stroke (5-15),Moderately severe disability,No,No,Alive,,Alive,22/11/2022,
+77,Female,Indian,NA,Yes ,Yes ,,No,,No,No,Ischaemic,03/03/2021,15,No stroke symptoms (0),Slight disability,No,No,Alive,,Alive,22/11/2022,
+57,Male ,Indian,NA,No,No,,No,,No,No,Ischaemic,03/03/2021,15,Minor stroke (1-4),Moderate disability,No,No,Alive,,Alive,22/11/2022,
+58,Male ,Indian,NA,No,Yes ,,No,,No,No,ICH,01/03/2021,13,Severe stroke (21-42),NA,No,No,Alive,,Alive,22/11/2022,
+75,Male ,Malay,NA,Yes ,Yes ,,No,,No,No,Ischaemic,10/03/2021,15,No stroke symptoms (0),Slight disability,No,No,Alive,,Alive,22/11/2022,
+71,Male ,Chinese,NA,No,Yes ,,No,,No,No,Ischaemic,09/03/2021,15,Minor stroke (1-4),No significant disability,No,No,Alive,,Alive,22/11/2022,
+71,Male ,Malay,NA,Yes ,Yes ,,No,,No,No,Ischaemic,09/03/2021,15,Moderate stroke (5-15),Moderately severe disability,No,No,Alive,,Died,18/03/2022,SAKIT TUA
+78,Male ,Indian,NA,Yes ,Yes ,,No,,No,No,Ischaemic,15/03/2021,15,No stroke symptoms (0),No significant disability,No,No,Alive,,Alive,22/11/2022,
+48,Male ,Malay,NA,No,No,,No,,No,No,Ischaemic,15/03/2021,15,Minor stroke (1-4),No significant disability,No,No,Alive,,Alive,22/11/2022,
+61,Female,Malay,NA,No,Yes ,,No,,No,No,Ischaemic,16/03/2021,15,Minor stroke (1-4),No significant disability,No,No,Alive,,Alive,22/11/2022,
+67,Female,Malay,NA,Yes ,Yes ,,No,,No,No,SAH,10/03/2021,14,Moderate stroke (5-15),Died (dischrage),No,No,Death,,Died,12/03/2021,LEFT SUBARACHNOID BLEED WITH ACUTE LEFT FRONTO-TEMPORAL ACUTE INFARCTION
+50,Female,Malay,NA,Yes ,Yes ,,No,,No,No,ICH,08/03/2021,2,No stroke symptoms (0),Died (dischrage),No,No,Death,,Died,12/03/2021,BRAINSTEM BLEED SECONDARY TO HYPERTENSIVE EMEGERCENCY
+50,Female,Malay,NA,No,Yes ,,No,,No,No,Ischaemic,24/03/2021,15,Minor stroke (1-4),Moderately severe disability,No,No,Alive,,Alive,22/11/2022,
+69,Female,Malay,NA,No,No,,No,,No,No,Ischaemic,23/03/2021,15,Minor stroke (1-4),Moderately severe disability,No,No,Alive,,Alive,22/11/2022,
+69,Female,Malay,NA,Yes ,Yes ,,Yes ,,No,No,Ischaemic,29/03/2021,15,Moderate stroke (5-15),NA,No,No,Alive,,Died,12/04/2021,INTRACRANIAL BLEED
+71,Male ,Malay,NA,No,No,,No,,No,No,Ischaemic,28/03/2021,15,No stroke symptoms (0),No significant disability,No,No,Alive,,Alive,22/11/2022,
+65,Male ,Chinese,NA,No,No,,No,,No,No,Ischaemic,28/03/2021,15,Minor stroke (1-4),Severe disability,No,No,Alive,,Alive,22/11/2022,
+84,Male ,Indian,NA,Yes ,Yes ,,No,,No,No,Ischaemic,26/03/2021,15,Minor stroke (1-4),NA,No,No,Alive,,Died,21/07/2021,SAKIT TUA
+40,Male ,Malay,NA,No,No,,No,,No,No,Ischaemic,30/03/2021,15,Minor stroke (1-4),No significant disability,No,No,Alive,,Alive,22/11/2022,
+69,Male ,Malay,NA,Yes ,Yes ,,No,,No,No,Ischaemic,30/03/2021,15,Moderate stroke (5-15),Moderately severe disability,No,No,Alive,,Alive,22/11/2022,
+50,Male ,Malay,NA,No,Yes ,,No,,No,No,Ischaemic,20/03/2021,11,Moderate stroke (5-15),No symptom,No,No,Alive,,Alive,22/11/2022,
+64,Male ,Malay,NA,Yes ,Yes ,,No,,No,No,SAH,18/03/2021,15,No stroke symptoms (0),Slight disability,No,No,Alive,,Alive,22/11/2022,
+46,Male ,Indian,NA,Yes ,Yes ,,No,,No,No,Ischaemic,13/03/2021,15,No stroke symptoms (0),Slight disability,No,No,Alive,,Alive,22/11/2022,
+57,Male ,Indian,NA,No,No,,No,,No,No,ICH,17/03/2021,15,No stroke symptoms (0),Moderately severe disability,No,No,Alive,,Died,18/04/2021,THALAMIC STROKE
+46,Female,Malay,NA,No,No,,No,,Yes,No,Ischaemic,12/03/2021,15,Minor stroke (1-4),Moderately severe disability,No,No,Alive,,Alive,22/11/2022,
+82,Female,Indian,NA,No,Yes ,,No,,No,No,Ischaemic,27/03/2021,15,Moderate stroke (5-15),Moderately severe disability,Yes,No,Alive,,Died,07/06/2022,SAKIT TUA
+53,Female,Malay,NA,NA,Yes ,,,,NA,No,ICH,17/04/2021,15,NA,NA,No,No,Alive,,Alive,22/11/2022,
+58,Female,Malay,NA,NA,NA,,,,NA,No,Ischaemic,01/03/2021,12,Moderate to severe stroke (16-20),NA,No,No,Alive,,Alive,22/11/2022,
+63,Male ,Malay,NA,No,No,,No,,No,No,Ischaemic,01/03/2021,15,Minor stroke (1-4),Moderate disability,No,No,Alive,,Alive,22/11/2022,
+83,Female,Malay,NA,NA,Yes ,,,,NA,No,ICH,20/03/2021,10,NA,Severe disability,No,No,Alive,,Died,24/03/2021,SAKIT TUA
+45,Male ,Malay,NA,Yes ,Yes ,,,,Yes,NA,Ischaemic,16/03/2021,15,NA,Died (dischrage),No,No,Death,,Died,29/03/2021,ACUTE ISCHEMIC STROKE
+62,Male ,Chinese,NA,NA,Yes ,,,,NA,No,Ischaemic,29/03/2021,15,Minor stroke (1-4),Moderately severe disability,No,No,Alive,,Alive,22/11/2022,
+73,Male ,Malay,NA,NA,Yes ,,,,NA,No,ICH,28/03/2021,2,No stroke symptoms (0),Severe disability,No,No,Alive,,Died,31/03/2021,SAKIT TUA
+48,Female,Malay,NA,Yes ,Yes ,,,,NA,Yes ,Ischaemic,Missing,15,Minor stroke (1-4),NA,No,No,Alive,,Alive,22/11/2022,
+29,Female,Indian,NA,NA,NA,,,,NA,No,Ischaemic,17/03/2021,12,Moderate stroke (5-15),Slight disability,Yes,No,Alive,,Alive,22/11/2022,
+55,Male ,Malay,NA,NA,NA,,,,NA,No,Ischaemic,30/03/2021,15,Minor stroke (1-4),No significant disability,No,No,Alive,,Alive,22/11/2022,
+65,Female,Indian,NA,NA,NA,,,,NA,No,Ischaemic,Missing,15,No stroke symptoms (0),NA,No,No,Alive,,Alive,22/11/2022,
+46,Male ,Malay,NA,Yes ,Yes ,,No,,No,No,Ischaemic,03/04/2021,10,Moderate to severe stroke (16-20),Moderately severe disability,No,No,Alive,,Alive,22/11/2022,
+68,Female,Malay,NA,No,No,,No,,Yes,No,Ischaemic,07/04/2021,15,Minor stroke (1-4),No symptom,No,No,Alive,,Alive,22/11/2022,
